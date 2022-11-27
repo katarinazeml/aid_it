@@ -35,7 +35,7 @@ h1{
 div a{
     font-weight: 100;
     color: #8255ef;
-    font-size: 15vw;
+    font-size: 15px;
     text-align: center;
     top: -20px;
 }
@@ -87,9 +87,3 @@ input[type="submit"]:focus
     height: 400px;
     background-image: url(pexels.png);
 }
-@media screen and (max-width: 500px) {
-  
-            .right-box,
-            .left-box {
-                width: 70%;
-            }
